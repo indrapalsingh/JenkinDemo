@@ -3,4 +3,13 @@
   <groupId>01</groupId>
   <artifactId>001</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <organization>
+  	<name>persistent</name>
+  </organization>
+  <scm>
+  	<url>https://github.com/indrapalsingh/JenkinDemo.git</url>
+  </scm>
+  <properties>
+  	<project>01</project>
+  </properties>
 </project>
