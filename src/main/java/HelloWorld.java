@@ -1,12 +1,12 @@
 
-public class Main {
+public class HelloWorld {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Maven");
+		System.out.print("text");
 
 	}
 
